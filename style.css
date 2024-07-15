@@ -1,0 +1,17 @@
+.border{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+button{
+
+    height: 50px;
+    width: 175px;
+
+}
